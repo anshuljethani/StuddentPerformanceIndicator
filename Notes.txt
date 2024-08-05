@@ -15,7 +15,14 @@ Deployment AWS
 Agenda- 
 
 1- Set up the GitHub [Repository]
-  a] new env. 
-  b] setup.py
-  c] requirements.txt
+a] new env. 
+b] setup.py
+c] requirements.txt
+2- Src folder and build the package
+
+Note that -e . was creating issues in the device. that is why 
+i have ignored it comppletely. 
+
+-e . in requirements.txt signifies that the 
+setup.py file should be triggered automatically.
 
