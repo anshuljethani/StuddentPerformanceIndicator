@@ -40,3 +40,8 @@ Life cycle of Machine learning Project
 -Data Pre-Processing
 -Model Training
 -Choose best model
+
+*eda_struc_performance is totally self done. 
+ We have studied and observed the dataset though graphs as well. 
+ None of it is directly copied.
+
