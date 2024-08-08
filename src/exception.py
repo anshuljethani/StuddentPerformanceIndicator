@@ -19,10 +19,12 @@ This part was just common to all exceptions. So now whenever we call try catch b
 using CustomException it will always print in the format 
 "Error occured in python script [{0}] line number [{1}] error message[{2}]
 '''
-
+'''
 if __name__=="__main__":
     try:
         a=1/0
     except Exception as e:
         logging.error("Error occured-testing",exc_info=True)
         raise CustomException(e,sys)
+
+'''
