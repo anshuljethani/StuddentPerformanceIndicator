@@ -8,7 +8,7 @@ import pickle
 from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
 
-from exception import CustomException
+from src.components.exception import CustomException
 
 
 from sklearn.metrics import r2_score
