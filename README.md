@@ -1,4 +1,4 @@
-#Hands-On Machine Learning: A Project Showcase and Learnings
+# Hands-On Machine Learning: A Project Showcase and Learnings
 
 ## Problem Statement :
  Understands how the students performance (scores) is affected by other variables like Gender, ethinicity , parents education, lunch before attempting the test and test preparation course.
