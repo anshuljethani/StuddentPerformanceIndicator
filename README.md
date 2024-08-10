@@ -1,4 +1,4 @@
-# End to End Machine Learning Project using awz,azure deployment-Project work repository for the project implemented as part of Section 44 of Krish Naik Sirs course, “Master the Theory, Practice, and Math Behind ML, NLP. Build Real-World Projects with MLOps, Git, Docker with Deployment.”
+#Hands-On Machine Learning: A Project Showcase and Learnings
 
 ## Problem Statement :
  Understands how the students performance (scores) is affected by other variables like Gender, ethinicity , parents education, lunch before attempting the test and test preparation course.
@@ -26,10 +26,14 @@ Scikit-Learn: A machine learning library that provides simple and efficient tool
 
 CatBoost: A gradient boosting library that handles categorical features automatically and is known for its high performance and accuracy.
 
-
 Sys: Provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter. It’s typically used for system-specific parameters and functions.
 
 OS: Provides a way of using operating system-dependent functionality like reading or writing to the file system. It’s often used for interacting with the file system and environment variables.
+
+## Project Timeframe -
+Start Date - 28th Jult 2024
+End Date- 10th August 2024
+
 
 
 
