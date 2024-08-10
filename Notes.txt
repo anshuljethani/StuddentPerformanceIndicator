@@ -1,6 +1,6 @@
-Notes for end to end ml project with aws,azure deployment-
+Notes for End To End ML Project with aws,azure deployment-
 
-End To End ML Project
+Started this project on 28th July 2024.
 
 Set up Project With Github
 1. Data Ingestion 
@@ -45,3 +45,6 @@ Life cycle of Machine learning Project
  We have studied and observed the dataset though graphs as well. 
  None of it is directly copied.
 
+-Learned aboout Aws beanstalk,azure how to deploy using docker,create dockerimage and integrate it with awz and various other things.
+
+-Concluded the project on 10th August 2024.
