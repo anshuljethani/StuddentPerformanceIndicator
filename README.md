@@ -12,15 +12,15 @@ Shape of dataset- 8 Columns and 1000 rows
 
 
 ## Libraries Used
-This project utilizes several Python libraries to handle data processing, visualization, and machine learning. Below is a brief overview of each library:
--Pandas
--NumPy
--Seaborn
--Matplotlib
--Scikit-Learn
--CatBoost
--Sys
--OS
+This project utilizes several Python libraries to handle data processing, visualization, and machine learning. Some of the libraries used are-:
+Pandas,
+NumPy,
+Seaborn,
+Matplotlib,
+Scikit-Learn,
+CatBoost,
+Sys,
+OS
 
 ## Project Timeframe -
 Start Date - 28th Jult 2024
