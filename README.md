@@ -26,8 +26,7 @@ OS
 Start Date - 28th Jult 2024
 End Date- 10th August 2024
 
-
-
+## Refer for more information on my linkedin post - https://www.linkedin.com/feed/update/urn:li:activity:7228052070535188480/
 
 
  
