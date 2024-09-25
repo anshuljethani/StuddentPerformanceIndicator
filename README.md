@@ -4,7 +4,7 @@
  Understands how the students performance (scores) is affected by other variables like Gender, ethinicity , parents education, lunch before attempting the test and test preparation course.
 
 ## Data Collection : 
-Source : https://www.kaggle.com/datasets/nikku2611/student-data 
+Source : [https://www.kaggle.com/datasets/nikku2611/student-data](https://www.kaggle.com/code/spscientist/student-performance-in-exams/notebook) 
 Shape of dataset- 8 Columns and 1000 rows
 
 ## Screenshot of the website -
